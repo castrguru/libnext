@@ -1,0 +1,12 @@
+{
+  "name": "castrguru-next",
+  "version": "25.1.23",
+  "description": "Next.js helpers.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ""
+}
